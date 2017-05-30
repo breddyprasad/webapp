@@ -3,14 +3,14 @@
   <groupId>Com.demo.app</groupId>
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.3</version>
   <name>webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
  <scm>
    <connection>scm:git:git@github.com:breddyprasad/webapp.git</connection>
     <developerConnection>scm:git:git@github.com:breddyprasad/webapp.git</developerConnection>
     <url>scm:git:git@github.com:breddyprasad/webapp.git</url>
-  <tag>HEAD</tag>
+  <tag>webapp-0.0.3</tag>
   </scm>
 
 <distributionManagement>
